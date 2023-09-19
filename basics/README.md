@@ -1,1 +1,1 @@
-This directory contains shell script
+My first script file
