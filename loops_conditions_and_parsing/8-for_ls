@@ -1,4 +1,4 @@
-#!/usr/bin.env bash
+#!/usr/bin/env bash
 # This script uses ls as a variable
 list=$(ls)
 for i in $list
